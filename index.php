@@ -24,7 +24,7 @@ class Attendance {
     private $secrect = "secrect";
 
     /**
-    * 数据库访问配置
+    * EHR数据库访问配置
     */
     //数据库ip
     // private $serverName = '113.108.232.9';
